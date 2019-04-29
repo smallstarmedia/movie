@@ -1,0 +1,1276 @@
+<!DOCTYPE html>
+<!--[if IE 7 ]><html class="ie7" lang="zh-cn"><![endif]--><!--[if IE 8 ]><html class="ie8" lang="zh-cn"><![endif]--><!--[if IE 9 ]><html class="ie9" lang="zh-cn"><![endif]--><!--[if (gt IE 9)|!(IE)]><!--><html class="" lang="zh-cn"><!--<![endif]-->    
+                 
+    
+
+    
+                    
+
+<head>
+    <meta charset='utf-8' />
+    <title>360电视剧分类列表-更新更全更受欢迎的影视网站-在线观看</title>
+    <meta name="referrer" content="always"/>
+    
+        <base target="_blank"/>
+        <base href="http://www.360kan.com"/>
+    
+
+
+<link rel='stylesheet' href='http://s8.qhimg.com/static/b3d85ce81abb962d,3c41ea429f5be108,12a7d33c261d4da3,dfbffce5a891ed05,6051c8cd10b2c112,5aed8f4453191cc5,677935d610c2af7f,70785427009ed294,a4b1e3e451fa1e11,0d68aa32753dcf80.css' />
+
+
+<link rel='stylesheet' href='http://s8.qhimg.com/static/c9147ace851a1f74,99e9af59122285d5,bda00ce3086464ad,29475b90e88ed26d,6d2b7ff7f267ba6e,772f4ee436054f6f,030bda4036645a97,bfc9717007a3be9d,552a6fa36b23d21d,5d760eff2c7299df,5572fda2f0d4985f,93fe6133a1867661,26a1365e1af674b7,032cb5f78e2c0ece.css' />
+</head><body  ><script>(function(){var a=true;var h=undefined;var g=[];document.getwide=function(){return h};document.onwidechange=function(e,j){g.push(e)};function f(l,e){if(!d(l,e)){var j=l.className,m=(j!="")?" ":"";var k=j+m+e;l.className=k}}function i(l,e){if(d(l,e)){var j=" "+l.className+" ";j=j.replace(/(\s+)/gi," ");var k=j.replace(" "+e+" "," ");k=k.replace(/(^\s+)|(\s+$)/g,"");l.className=k}}function d(m,j){var k=m.className,l=k.split(/\s+/);var e=0;for(e in l){if(l[e]==j){return true}}return false}function c(j){if(h!=j){h=j;for(var e=0;e<g.length;e++){g[e](j)}}}function b(){if(document.body.clientWidth>1239){f(document.body,"g-wide");i(document.body,"g-small");c("wide")}else{i(document.body,"g-wide");f(document.body,"g-small");c("small")}}window.onresize=function(){if(a){a=false;setTimeout(function(){a=true;b()},120)}};b()})();</script><script>var systemserverdata={"domain":{"kan":"\/\/www.360kan.com","v":"\/\/www.360kan.com","videoweb":"","so":"\/\/so.360kan.com","my":"\/\/i.360kan.com","app":"\/\/app.360kan.com","pl":"\/\/pl.360kan.com","play":"\/\/play.xiankan.com","pay":"\/\/pay.xiankan.com","chat":"\/\/chat.xiankan.com","dig":"\/\/dig.360kan.com","wemedia":"\/\/wemedia.360kan.com","httpsmy":"https:\/\/i.360kan.com","xkmy":"http:\/\/my.xiankan.com","my360":"http:\/\/i.360kan.com"}}</script>
+<div class="eb-subhead-holder"></div>
+<div class="eb-subhead" data-block="tj-subhead" monitor-desc="subhead" monitor-shortpv>
+	<div class="eb-subhead-top g-clear">
+	
+	
+    
+    
+    
+    
+    		<a href="http://www.360kan.com" class="eb-subhead-logo" target="_self"><img src="https://p0.ssl.qhimg.com/t01cce0452825687104.png"></a>
+		<ul id="js-ebhead-more" class="eb-subhead-nav g-clear">
+					<li class="eb-subhead-nav-wrap js-ebsubhead-menu">
+        <!--  -->
+				<a href="http://www.360kan.com" class="nav-item">首页</a>
+							</li>
+					<li class="eb-subhead-nav-wrap js-ebsubhead-menu">
+        <!--  -->
+				<a href="http://www.360kan.com/dianshi/index.html" class="nav-item current">电视剧</a>
+								<div class="eb-subhead-layer eb-subhead-layer-dianshi js-ebsubhead-layer">
+		        	<b class="eb-subhead-bg"></b>
+			        <ul class="eb-subhead-layer-list">
+			        				        	<li class="eb-subhead-layer-item">
+			        		<a href="http://www.360kan.com/dianshi/index.html" class="eb-subhead-layer-link" target="_blank">电视剧首页</a>
+			        	</li>
+			        				        	<li class="eb-subhead-layer-item">
+			        		<a href="http://www.360kan.com/dianshi/list.php?year=all&area=all&act=all&cat=104" class="eb-subhead-layer-link" target="_blank">热门古装</a>
+			        	</li>
+			        				        	<li class="eb-subhead-layer-item">
+			        		<a href="http://www.360kan.com/dianshi/list.php?year=all&area=all&act=all&cat=103" class="eb-subhead-layer-link" target="_blank">超燃警匪</a>
+			        	</li>
+			        				        	<li class="eb-subhead-layer-item">
+			        		<a href="http://www.360kan.com/dianshi/list.php?year=all&area=all&act=all&cat=109" class="eb-subhead-layer-link" target="_blank">爆笑喜剧</a>
+			        	</li>
+			        				        	<li class="eb-subhead-layer-item">
+			        		<a href="http://www.360kan.com/dianshi/list.php?year=all&area=all&act=all&cat=100" class="eb-subhead-layer-link" target="_blank">青春偶像</a>
+			        	</li>
+			        				        </ul>
+		        </div>
+							</li>
+					<li class="eb-subhead-nav-wrap js-ebsubhead-menu">
+        <!--  -->
+				<a href="http://www.360kan.com/zongyi/index.html" class="nav-item">综艺</a>
+								<div class="eb-subhead-layer eb-subhead-layer-zongyi js-ebsubhead-layer">
+		        	<b class="eb-subhead-bg"></b>
+			        <ul class="eb-subhead-layer-list">
+			        				        	<li class="eb-subhead-layer-item">
+			        		<a href="http://www.360kan.com/zongyi/index.html" class="eb-subhead-layer-link" target="_blank">综艺首页</a>
+			        	</li>
+			        				        	<li class="eb-subhead-layer-item">
+			        		<a href="http://www.360kan.com/zongyi/list.php?act=all&area=all&cat=120" class="eb-subhead-layer-link" target="_blank">真人秀</a>
+			        	</li>
+			        				        	<li class="eb-subhead-layer-item">
+			        		<a href="http://www.360kan.com/zongyi/list.php?act=all&area=all&cat=103" class="eb-subhead-layer-link" target="_blank">访谈</a>
+			        	</li>
+			        				        	<li class="eb-subhead-layer-item">
+			        		<a href="http://www.360kan.com/zongyi/list.php?act=all&area=all&cat=104" class="eb-subhead-layer-link" target="_blank">情感</a>
+			        	</li>
+			        				        </ul>
+		        </div>
+							</li>
+					<li class="eb-subhead-nav-wrap js-ebsubhead-menu">
+        <!--  -->
+				<a href="http://www.360kan.com/dianying/index.html" class="nav-item">电影</a>
+								<div class="eb-subhead-layer eb-subhead-layer-dianying js-ebsubhead-layer">
+		        	<b class="eb-subhead-bg"></b>
+			        <ul class="eb-subhead-layer-list">
+			        				        	<li class="eb-subhead-layer-item">
+			        		<a href="http://www.360kan.com/dianying/index.html" class="eb-subhead-layer-link" target="_blank">电影首页</a>
+			        	</li>
+			        				        	<li class="eb-subhead-layer-item">
+			        		<a href="http://www.360kan.com/dianying/list.php?year=all&area=all&act=all&cat=103" class="eb-subhead-layer-link" target="_blank">搞笑大片</a>
+			        	</li>
+			        				        	<li class="eb-subhead-layer-item">
+			        		<a href="http://www.360kan.com/dianying/list.php?year=all&area=all&act=all&cat=106" class="eb-subhead-layer-link" target="_blank">火爆动作</a>
+			        	</li>
+			        				        	<li class="eb-subhead-layer-item">
+			        		<a href="http://www.360kan.com/dianying/list.php?year=all&area=all&act=all&cat=100" class="eb-subhead-layer-link" target="_blank">甜蜜热恋</a>
+			        	</li>
+			        				        	<li class="eb-subhead-layer-item">
+			        		<a href="http://www.360kan.com/dianying/list.php?year=all&area=all&act=all&cat=102" class="eb-subhead-layer-link" target="_blank">恐怖鬼片</a>
+			        	</li>
+			        				        	<li class="eb-subhead-layer-item">
+			        		<a href="http://www.360kan.com/dianying/list.php?cat=all&year=all&area=all&act=all&rank=createtime" class="eb-subhead-layer-link" target="_blank">激情网大</a>
+			        	</li>
+			        				        </ul>
+		        </div>
+							</li>
+					<li class="eb-subhead-nav-wrap js-ebsubhead-menu">
+        <!--  -->
+				<a href="http://www.360kan.com/ertong/index.html" class="nav-item">儿童</a>
+							</li>
+					<li class="eb-subhead-nav-wrap js-ebsubhead-menu">
+        <!--  -->
+				<a href="http://www.360kan.com/dongman/index.html" class="nav-item">动漫</a>
+								<div class="eb-subhead-layer eb-subhead-layer-dongman js-ebsubhead-layer">
+		        	<b class="eb-subhead-bg"></b>
+			        <ul class="eb-subhead-layer-list">
+			        				        	<li class="eb-subhead-layer-item">
+			        		<a href="http://www.360kan.com/dongman/index.html" class="eb-subhead-layer-link" target="_blank">动漫首页</a>
+			        	</li>
+			        				        	<li class="eb-subhead-layer-item">
+			        		<a href="http://www.360kan.com/dongman/list?year=all&area=all&cat=109" class="eb-subhead-layer-link" target="_blank">魔幻</a>
+			        	</li>
+			        				        	<li class="eb-subhead-layer-item">
+			        		<a href="http://www.360kan.com/dongman/list?year=all&area=all&cat=100" class="eb-subhead-layer-link" target="_blank">热血</a>
+			        	</li>
+			        				        	<li class="eb-subhead-layer-item">
+			        		<a href="http://www.360kan.com/dongman/list?year=all&area=all&cat=107" class="eb-subhead-layer-link" target="_blank">冒险</a>
+			        	</li>
+			        				        </ul>
+		        </div>
+							</li>
+		
+			<li class="eb-subhead-nav-wrap js-ebsubhead-submenu">
+				<span  class="nav-item nav-item-sp">更多</span>
+				<div class="eb-subhead-sub-wrap js-ebhead-subitem">
+					<b class="eb-subhead-bg"></b>
+                    					<ul class="eb-subhead-sub g-clear">
+											<li class="sub-nav">
+							<a href="//v.360kan.com/list/index?catid=2100" class="sub-nav-item">小品</a>
+						</li>
+											<li class="sub-nav">
+							<a href="//v.360kan.com/list/index?catid=400" class="sub-nav-item">搞笑</a>
+						</li>
+											<li class="sub-nav">
+							<a href="//v.360kan.com/list/index?catid=200" class="sub-nav-item">娱乐</a>
+						</li>
+											<li class="sub-nav">
+							<a href="//v.360kan.com/list/index?catid=100" class="sub-nav-item">爆点</a>
+						</li>
+											<li class="sub-nav">
+							<a href="//v.360kan.com/list/index?catid=700" class="sub-nav-item">音乐</a>
+						</li>
+											<li class="sub-nav">
+							<a href="//v.360kan.com/list/index?catid=2200" class="sub-nav-item">广场舞</a>
+						</li>
+											<li class="sub-nav">
+							<a href="//v.360kan.com/list/index?catid=500" class="sub-nav-item">体育</a>
+						</li>
+											<li class="sub-nav">
+							<a href="//v.360kan.com/list/index?catid=600" class="sub-nav-item">游戏</a>
+						</li>
+										</ul>
+				</div>
+			</li>
+		</ul>
+		<div class="eb-subhead-u">
+			<div class="eb-ucenter g-clear" id="js-ebucenter">
+	<div class="eb-ucenter-wrap eb-ucenter-my">
+		<a target="_self" href="http://i.360kan.com" class="eb-ucenter-item eb-ucenter-nologin js-nologin">立即登录</a>
+        <a target="_self" href="#" class="eb-ucenter-item eb-ucenter-login js-login" style='display:none'>
+            <p class="eb-ucenter-portrait g-clear js-portrait">
+            	<img src="https://p.ssl.qhimg.com/t0172cffd8a9c73695f.png" />
+            	<span></span>
+            </p>
+    		<div class="eb-ucenter-layer eb-ucenter-layer-my js-layer">
+	            				<div class="eb-ucenter-layer-inner">
+					<p class="eb-ucenter-layer-arrow"></p>
+					<ul class="eb-ucenter-layer-main">
+						<!--js动态生成，模板在下面的script里-->
+
+					</ul>
+				</div>
+			</div>
+        </a>
+	</div>
+	<span class="eb-ucenter-line js-record" >&nbsp;</span>
+	<div id="js-ebrecord-wrap" class="eb-ucenter-wrap eb-ucenter-record js-record"  >
+		<a id="js-ebrecord" href="javascript:;" class="eb-ucenter-item">观看记录</a>
+		<div id="js-ebrecord-layer" class="eb-ucenter-layer eb-ucenter-layer-record" style="display:none;">
+            			<div class="eb-ucenter-layer-inner">
+				<p class="eb-ucenter-layer-arrow"></p>
+				<div class="eb-ucenter-layer-scroll-wrap">
+					<div class="eb-ucenter-layer-scroll">
+						<ul id="js-ebrecord-list" class="eb-ucenter-layer-main">
+							<li class="eb-ucenter-layer-item">
+								<p class="eb-ucenter-layer-title">无观看记录</p>
+							</li>
+						</ul>
+						<p class="delall js-delall" style="display:none;"><a class="">全部清除</a></p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<span class="eb-ucenter-line">&nbsp;</span>
+	<div id="js-ebapp" class="eb-ucenter-wrap eb-ucenter-app">
+		<a href="http://www.360kan.com/appdownload" class="eb-ucenter-item" target="_blank">APP下载</a>
+		<div class="eb-ucenter-layer eb-ucenter-layer-app js-ebapp-layer" style="display:none;">
+            			<div class="eb-ucenter-layer-inner">
+				<p class="eb-ucenter-layer-arrow"></p>
+				<img class="app-img" src="https://p0.ssl.qhimg.com/t01e385e976f57de2e9.png">
+				<p class="app-desc">手机扫描下载影视大全APP</p>
+			</div>
+		</div>   
+	</div>
+
+    <script type="text/template" class='js-tpl'>
+        <li class="eb-ucenter-layer-item">
+            <a target="_blank" class="item-icon" href="#{myhost}/u/index/#{qid}?q=discuss">个人中心</a>
+        </li>
+        <li class="eb-ucenter-layer-item">
+            <a target="_blank" class="item-icon" href="#{myhost}/u/index/#{qid}">我的收藏</a>
+        </li>
+        <li class="eb-ucenter-layer-item">
+           <a target="_blank" class="item-icon" href="#{myhost}/login/profile/">账号设置</a>
+        </li>
+        <li class="eb-ucenter-layer-item">
+            <a  class="item-icon js-logout" href="#">退出</a>
+        </li>
+    </script>
+</div>
+
+		</div>
+		<div class="eb-subhead-s">
+			<form class="js-eb-search eb-search " target="_top" method="GET" action="" id="search-form">
+     <div class='js-eb-suggest eb-suggest   g-clear' id='js-eb-suggest'>
+    
+        <input class='eb-suggest-query js-query' autocomplete='off' value="" id='kw' />
+    <div class='eb-suggest-wrap js-wrap' style='display:none'>
+    	<iframe frameborder="0"></iframe>
+   
+        <ul class='js-list eb-suggest-ul'></ul>
+    </div>
+</div>    <div class="eb-search-btn-wrap">
+    	<input type="submit" value=""  class="eb-search-btn" id="js-eb-search-btn">
+    	    </div>
+</form>
+		</div>
+	</div>
+</div>
+    
+<div class='s-common-top g-wrap js-common-top s-dianshi-top' data-channel="dianshi">
+    
+
+<div data-block="tj-filter" monitor-desc="筛选" monitor-shortpv>
+        <ul class="g-clear s-filter-channel">
+                <li class="item js-filter-content">
+                        <b  class="on" >电视剧</b>
+                    </li>
+                <li class="item js-filter-content">
+                        <a target="_self" href="/dianying/list" class="js-tongjip">电影</a>
+                    </li>
+                <li class="item js-filter-content">
+                        <a target="_self" href="/zongyi/list" class="js-tongjip">综艺</a>
+                    </li>
+                <li class="item js-filter-content">
+                        <a target="_self" href="/dongman/list" class="js-tongjip">动漫</a>
+                    </li>
+            </ul>
+    <div class="s-filter">
+
+            <dl class="s-filter-item js-s-filter">
+            <dt class="type">类型:</dt>
+            <dd class="item g-clear js-filter-content">
+                                                                                           
+                                                                                   
+                                                                                   
+                                                            
+                                                            <b class="on">全部</b>
+                                                                                <a class="js-tongjip" href="http://www.360kan.com/dianshi/list.php?year=all&area=all&act=all&cat=101" target="_self">言情
+                                                </a>
+                                                                                <a class="js-tongjip" href="http://www.360kan.com/dianshi/list.php?year=all&area=all&act=all&cat=105" target="_self">伦理
+                                                </a>
+                                                                                <a class="js-tongjip" href="http://www.360kan.com/dianshi/list.php?year=all&area=all&act=all&cat=109" target="_self">喜剧
+                                                </a>
+                                                                                <a class="js-tongjip" href="http://www.360kan.com/dianshi/list.php?year=all&area=all&act=all&cat=108" target="_self">悬疑
+                                                </a>
+                                                                                <a class="js-tongjip" href="http://www.360kan.com/dianshi/list.php?year=all&area=all&act=all&cat=111" target="_self">都市
+                                                </a>
+                                                                                <a class="js-tongjip" href="http://www.360kan.com/dianshi/list.php?year=all&area=all&act=all&cat=100" target="_self">偶像
+                                                </a>
+                                                                                <a class="js-tongjip" href="http://www.360kan.com/dianshi/list.php?year=all&area=all&act=all&cat=104" target="_self">古装
+                                                    <i class="s-hot-icon"></i>
+                                                </a>
+                                                                                <a class="js-tongjip" href="http://www.360kan.com/dianshi/list.php?year=all&area=all&act=all&cat=107" target="_self">军事
+                                                </a>
+                                                                                <a class="js-tongjip" href="http://www.360kan.com/dianshi/list.php?year=all&area=all&act=all&cat=103" target="_self">警匪
+                                                    <i class="s-hot-icon"></i>
+                                                </a>
+                                                                                <a class="js-tongjip" href="http://www.360kan.com/dianshi/list.php?year=all&area=all&act=all&cat=112" target="_self">历史
+                                                </a>
+                                                                                <a class="js-tongjip" href="http://www.360kan.com/dianshi/list.php?year=all&area=all&act=all&cat=116" target="_self">励志
+                                                </a>
+                                                                                <a class="js-tongjip" href="http://www.360kan.com/dianshi/list.php?year=all&area=all&act=all&cat=117" target="_self">神话
+                                                </a>
+                                                                                <a class="js-tongjip" href="http://www.360kan.com/dianshi/list.php?year=all&area=all&act=all&cat=118" target="_self">谍战
+                                                </a>
+                                                                                <a class="js-tongjip" href="http://www.360kan.com/dianshi/list.php?year=all&area=all&act=all&cat=119" target="_self">青春
+                                                </a>
+                                                                                <a class="js-tongjip" href="http://www.360kan.com/dianshi/list.php?year=all&area=all&act=all&cat=120" target="_self">家庭
+                                                </a>
+                                                                                <a class="js-tongjip" href="http://www.360kan.com/dianshi/list.php?year=all&area=all&act=all&cat=115" target="_self">动作
+                                                </a>
+                                                                                <a class="js-tongjip" href="http://www.360kan.com/dianshi/list.php?year=all&area=all&act=all&cat=114" target="_self">情景
+                                                </a>
+                                                                                <a class="js-tongjip" href="http://www.360kan.com/dianshi/list.php?year=all&area=all&act=all&cat=106" target="_self">武侠
+                                                </a>
+                                                                                <a class="js-tongjip" href="http://www.360kan.com/dianshi/list.php?year=all&area=all&act=all&cat=113" target="_self">科幻
+                                                </a>
+                                                                                <a class="js-tongjip" href="http://www.360kan.com/dianshi/list.php?year=all&area=all&act=all&cat=other" target="_self">其他
+                                                </a>
+                                                </dd>
+            <dd class="act">
+                <a class="open js-filter-open" href="#">更多</a>
+                <a class="close js-filter-close" href="#">收起</a>
+            </dd>
+        </dl>
+            <dl class="s-filter-item js-s-filter">
+            <dt class="type">年代:</dt>
+            <dd class="item g-clear js-filter-content">
+                                                       
+                                                                                                                       
+                                                                                   
+                                                            
+                                                            <b class="on">全部</b>
+                                                                                <a class="js-tongjip" href="http://www.360kan.com/dianshi/list.php?cat=all&area=all&act=all&year=2019" target="_self">2019
+                                                </a>
+                                                                                <a class="js-tongjip" href="http://www.360kan.com/dianshi/list.php?cat=all&area=all&act=all&year=2018" target="_self">2018
+                                                </a>
+                                                                                <a class="js-tongjip" href="http://www.360kan.com/dianshi/list.php?cat=all&area=all&act=all&year=2017" target="_self">2017
+                                                </a>
+                                                                                <a class="js-tongjip" href="http://www.360kan.com/dianshi/list.php?cat=all&area=all&act=all&year=2016" target="_self">2016
+                                                </a>
+                                                                                <a class="js-tongjip" href="http://www.360kan.com/dianshi/list.php?cat=all&area=all&act=all&year=2015" target="_self">2015
+                                                </a>
+                                                                                <a class="js-tongjip" href="http://www.360kan.com/dianshi/list.php?cat=all&area=all&act=all&year=2014" target="_self">2014
+                                                </a>
+                                                                                <a class="js-tongjip" href="http://www.360kan.com/dianshi/list.php?cat=all&area=all&act=all&year=2013" target="_self">2013
+                                                </a>
+                                                                                <a class="js-tongjip" href="http://www.360kan.com/dianshi/list.php?cat=all&area=all&act=all&year=2012" target="_self">2012
+                                                </a>
+                                                                                <a class="js-tongjip" href="http://www.360kan.com/dianshi/list.php?cat=all&area=all&act=all&year=2011" target="_self">2011
+                                                </a>
+                                                                                <a class="js-tongjip" href="http://www.360kan.com/dianshi/list.php?cat=all&area=all&act=all&year=2010" target="_self">2010
+                                                </a>
+                                                                                <a class="js-tongjip" href="http://www.360kan.com/dianshi/list.php?cat=all&area=all&act=all&year=2009" target="_self">2009
+                                                </a>
+                                                                                <a class="js-tongjip" href="http://www.360kan.com/dianshi/list.php?cat=all&area=all&act=all&year=2008" target="_self">2008
+                                                </a>
+                                                                                <a class="js-tongjip" href="http://www.360kan.com/dianshi/list.php?cat=all&area=all&act=all&year=2007" target="_self">2007
+                                                </a>
+                                                                                <a class="js-tongjip" href="http://www.360kan.com/dianshi/list.php?cat=all&area=all&act=all&year=other" target="_self">更早
+                                                </a>
+                                                </dd>
+            <dd class="act">
+                <a class="open js-filter-open" href="#">更多</a>
+                <a class="close js-filter-close" href="#">收起</a>
+            </dd>
+        </dl>
+            <dl class="s-filter-item js-s-filter">
+            <dt class="type">地区:</dt>
+            <dd class="item g-clear js-filter-content">
+                                                       
+                                                                                   
+                                                                                                                       
+                                                            
+                                                            <b class="on">全部</b>
+                                                                                <a class="js-tongjip" href="http://www.360kan.com/dianshi/list.php?cat=all&year=all&act=all&area=10" target="_self">大陆
+                                                </a>
+                                                                                <a class="js-tongjip" href="http://www.360kan.com/dianshi/list.php?cat=all&year=all&act=all&area=11" target="_self">香港
+                                                </a>
+                                                                                <a class="js-tongjip" href="http://www.360kan.com/dianshi/list.php?cat=all&year=all&act=all&area=16" target="_self">台湾
+                                                </a>
+                                                                                <a class="js-tongjip" href="http://www.360kan.com/dianshi/list.php?cat=all&year=all&act=all&area=12" target="_self">韩国
+                                                </a>
+                                                                                <a class="js-tongjip" href="http://www.360kan.com/dianshi/list.php?cat=all&year=all&act=all&area=14" target="_self">泰国
+                                                </a>
+                                                                                <a class="js-tongjip" href="http://www.360kan.com/dianshi/list.php?cat=all&year=all&act=all&area=15" target="_self">日本
+                                                </a>
+                                                                                <a class="js-tongjip" href="http://www.360kan.com/dianshi/list.php?cat=all&year=all&act=all&area=13" target="_self">美国
+                                                </a>
+                                                                                <a class="js-tongjip" href="http://www.360kan.com/dianshi/list.php?cat=all&year=all&act=all&area=17" target="_self">英国
+                                                </a>
+                                                                                <a class="js-tongjip" href="http://www.360kan.com/dianshi/list.php?cat=all&year=all&act=all&area=18" target="_self">新加坡
+                                                </a>
+                                                </dd>
+            <dd class="act">
+                <a class="open js-filter-open" href="#">更多</a>
+                <a class="close js-filter-close" href="#">收起</a>
+            </dd>
+        </dl>
+            <dl class="s-filter-item js-s-filter">
+            <dt class="type">明星:</dt>
+            <dd class="item g-clear js-filter-content">
+                                                       
+                                                                                   
+                                                                                   
+                                                                                                
+                                                            <b class="on">全部</b>
+                                                                                <a class="js-tongjip" href="http://www.360kan.com/dianshi/list.php?cat=all&year=all&area=all&act=杨幂" target="_self">杨幂
+                                                </a>
+                                                                                <a class="js-tongjip" href="http://www.360kan.com/dianshi/list.php?cat=all&year=all&area=all&act=热巴" target="_self">热巴
+                                                    <i class="s-hot-icon"></i>
+                                                </a>
+                                                                                <a class="js-tongjip" href="http://www.360kan.com/dianshi/list.php?cat=all&year=all&area=all&act=张嘉译" target="_self">张嘉译
+                                                </a>
+                                                                                <a class="js-tongjip" href="http://www.360kan.com/dianshi/list.php?cat=all&year=all&area=all&act=赵丽颖" target="_self">赵丽颖
+                                                </a>
+                                                                                <a class="js-tongjip" href="http://www.360kan.com/dianshi/list.php?cat=all&year=all&area=all&act=郑爽" target="_self">郑爽
+                                                </a>
+                                                                                <a class="js-tongjip" href="http://www.360kan.com/dianshi/list.php?cat=all&year=all&area=all&act=赵又廷" target="_self">赵又廷
+                                                </a>
+                                                                                <a class="js-tongjip" href="http://www.360kan.com/dianshi/list.php?cat=all&year=all&area=all&act=胡歌" target="_self">胡歌
+                                                    <i class="s-hot-icon"></i>
+                                                </a>
+                                                                                <a class="js-tongjip" href="http://www.360kan.com/dianshi/list.php?cat=all&year=all&area=all&act=孙俪" target="_self">孙俪
+                                                </a>
+                                                                                <a class="js-tongjip" href="http://www.360kan.com/dianshi/list.php?cat=all&year=all&area=all&act=韩东君" target="_self">韩东君
+                                                </a>
+                                                                                <a class="js-tongjip" href="http://www.360kan.com/dianshi/list.php?cat=all&year=all&area=all&act=周迅" target="_self">周迅
+                                                </a>
+                                                                                <a class="js-tongjip" href="http://www.360kan.com/dianshi/list.php?cat=all&year=all&area=all&act=张一山" target="_self">张一山
+                                                </a>
+                                                                                <a class="js-tongjip" href="http://www.360kan.com/dianshi/list.php?cat=all&year=all&area=all&act=李小璐" target="_self">李小璐
+                                                </a>
+                                                                                <a class="js-tongjip" href="http://www.360kan.com/dianshi/list.php?cat=all&year=all&area=all&act=吴秀波" target="_self">吴秀波
+                                                </a>
+                                                                                <a class="js-tongjip" href="http://www.360kan.com/dianshi/list.php?cat=all&year=all&area=all&act=李沁" target="_self">李沁
+                                                </a>
+                                                                                <a class="js-tongjip" href="http://www.360kan.com/dianshi/list.php?cat=all&year=all&area=all&act=陈坤" target="_self">陈坤
+                                                </a>
+                                                                                <a class="js-tongjip" href="http://www.360kan.com/dianshi/list.php?cat=all&year=all&area=all&act=刘亦菲" target="_self">刘亦菲
+                                                </a>
+                                                                                <a class="js-tongjip" href="http://www.360kan.com/dianshi/list.php?cat=all&year=all&area=all&act=唐嫣" target="_self">唐嫣
+                                                </a>
+                                                                                <a class="js-tongjip" href="http://www.360kan.com/dianshi/list.php?cat=all&year=all&area=all&act=李小冉" target="_self">李小冉
+                                                </a>
+                                                                                <a class="js-tongjip" href="http://www.360kan.com/dianshi/list.php?cat=all&year=all&area=all&act=周冬雨" target="_self">周冬雨
+                                                </a>
+                                                                                <a class="js-tongjip" href="http://www.360kan.com/dianshi/list.php?cat=all&year=all&area=all&act=于和伟" target="_self">于和伟
+                                                </a>
+                                                                                <a class="js-tongjip" href="http://www.360kan.com/dianshi/list.php?cat=all&year=all&area=all&act= 李易峰" target="_self">李易峰
+                                                </a>
+                                                                                <a class="js-tongjip" href="http://www.360kan.com/dianshi/list.php?cat=all&year=all&area=all&act=雷佳音" target="_self">雷佳音
+                                                </a>
+                                                                                <a class="js-tongjip" href="http://www.360kan.com/dianshi/list.php?cat=all&year=all&area=all&act=何冰" target="_self">何冰
+                                                </a>
+                                                                                <a class="js-tongjip" href="http://www.360kan.com/dianshi/list.php?cat=all&year=all&area=all&act=阮经天" target="_self">阮经天
+                                                </a>
+                                                                                <a class="js-tongjip" href="http://www.360kan.com/dianshi/list.php?cat=all&year=all&area=all&act=梅婷" target="_self">梅婷
+                                                </a>
+                                                                                <a class="js-tongjip" href="http://www.360kan.com/dianshi/list.php?cat=all&year=all&area=all&act=徐峥" target="_self">徐峥
+                                                </a>
+                                                                                <a class="js-tongjip" href="http://www.360kan.com/dianshi/list.php?cat=all&year=all&area=all&act=祖峰" target="_self">祖峰
+                                                </a>
+                                                                                <a class="js-tongjip" href="http://www.360kan.com/dianshi/list.php?cat=all&year=all&area=all&act=秦海璐" target="_self">秦海璐
+                                                </a>
+                                                                                <a class="js-tongjip" href="http://www.360kan.com/dianshi/list.php?cat=all&year=all&area=all&act=杨紫" target="_self">杨紫
+                                                </a>
+                                                                                <a class="js-tongjip" href="http://www.360kan.com/dianshi/list.php?cat=all&year=all&area=all&act=任嘉伦" target="_self">任嘉伦
+                                                </a>
+                                                                                <a class="js-tongjip" href="http://www.360kan.com/dianshi/list.php?cat=all&year=all&area=all&act= 贾乃亮" target="_self">贾乃亮
+                                                </a>
+                                                                                <a class="js-tongjip" href="http://www.360kan.com/dianshi/list.php?cat=all&year=all&area=all&act=罗晋" target="_self">罗晋
+                                                </a>
+                                                </dd>
+            <dd class="act">
+                <a class="open js-filter-open" href="#">更多</a>
+                <a class="close js-filter-close" href="#">收起</a>
+            </dd>
+        </dl>
+        </div>
+</div>    
+<div data-block="tj-list" monitor-desc="列表" monitor-shortpv>
+    <div class="s-tab">
+
+        <div class="tab-line g-clear">
+            <ul class="tab g-clear">
+                                             
+                                     
+                                     
+                                     
+                                                                                            <li class="tab-item tab-cur">
+                        <a target="_self" href="javascript:;">最近热映</a>
+                                        </li>
+                                                        <li class="tab-item">
+                        <a class="js-tongjip" target="_self" href="http://www.360kan.com/dianshi/list.php?cat=all&year=all&area=all&act=all&rank=rankpoint">最受好评</a>
+                                        </li>
+                                        </ul>
+
+            <div class="app">
+                安装360影视大全APP，免费观看<span>2349387</span>部热门大片<a href="/appdownload">手机观看</a>
+            </div>
+        </div>
+
+
+        <div class="s-tab-main">
+                    <ul class="list g-clear">
+                                    <li class="item">
+                        <a class="js-tongjic" href="/tv/Q4Vqc07lRWXlNH.html">
+                            <div class="cover g-playicon">
+                                <img src="http://p9.qhimg.com/d/dy_58847dee60ecd7b9b10f7d18466185df.jpeg">
+                                                                                                <div class="mask-wrap">
+                                    <span class="hint">47集全</span>
+                                                                    </div>
+                                                            </div>
+                            <div class="detail">
+                                <p class="title g-clear">
+                                    <span class="s1">推手</span>
+                                </p>
+                                <p class="star">主演：贾乃亮 王鸥 刘欢 边潇潇 王劲松</p>                            </div>
+                        </a>
+                    </li>
+                                    <li class="item">
+                        <a class="js-tongjic" href="/tv/QrJvbH7lRWXoN3.html">
+                            <div class="cover g-playicon">
+                                <img src="http://p5.qhimg.com/d/dy_a35f0d364809939a4d8562ec64cf3d26.jpg">
+                                                                                                <div class="mask-wrap">
+                                    <span class="hint">更新至16集</span>
+                                                                    </div>
+                                                            </div>
+                            <div class="detail">
+                                <p class="title g-clear">
+                                    <span class="s1">封神演义</span>
+                                </p>
+                                <p class="star">主演：罗晋 王丽坤 张博 邓伦 海一天</p>                            </div>
+                        </a>
+                    </li>
+                                    <li class="item">
+                        <a class="js-tongjic" href="/tv/PbdpaH7lRWLqMX.html">
+                            <div class="cover g-playicon">
+                                <img src="http://p6.qhimg.com/t01aafc36ad714c2711.jpg">
+                                                                                                <div class="mask-wrap">
+                                    <span class="hint">50集全</span>
+                                                                    </div>
+                                                            </div>
+                            <div class="detail">
+                                <p class="title g-clear">
+                                    <span class="s1">倚天屠龙记 曾舜晞版</span>
+                                </p>
+                                <p class="star">主演：曾舜晞 陈钰琪 祝绪丹 张超人 林雨申</p>                            </div>
+                        </a>
+                    </li>
+                                    <li class="item">
+                        <a class="js-tongjic" href="/tv/PLlpbX7lRWXpNn.html">
+                            <div class="cover g-playicon">
+                                <img src="http://p6.qhimg.com/d/dy_a93bcf63d53cf2df1459e5e1a2e02bba.jpg">
+                                                                                                <div class="mask-wrap">
+                                    <span class="hint">更新至22集</span>
+                                                                    </div>
+                                                            </div>
+                            <div class="detail">
+                                <p class="title g-clear">
+                                    <span class="s1">如果可以这样爱</span>
+                                </p>
+                                <p class="star">主演：刘诗诗 佟大为 保剑锋 杨壹童 齐欢</p>                            </div>
+                        </a>
+                    </li>
+                                    <li class="item">
+                        <a class="js-tongjic" href="/tv/QbRpcX7lRWXtNX.html">
+                            <div class="cover g-playicon">
+                                <img src="http://p6.qhimg.com/d/dy_8aed99316544d8c04baa5735a889cd2d.jpg">
+                                                                                                <div class="mask-wrap">
+                                    <span class="hint">更新至28集</span>
+                                                                    </div>
+                                                            </div>
+                            <div class="detail">
+                                <p class="title g-clear">
+                                    <span class="s1">密查</span>
+                                </p>
+                                <p class="star">主演：郑凯 邓莎 于荣光 连奕名 常铖</p>                            </div>
+                        </a>
+                    </li>
+                                    <li class="item">
+                        <a class="js-tongjic" href="/tv/RLNob07lRWXoMH.html">
+                            <div class="cover g-playicon">
+                                <img src="http://p0.qhimg.com/d/dy_a9e9846ac0e2318846f6ce4833a8e851.jpg">
+                                                                                                <div class="mask-wrap">
+                                    <span class="hint">更新至24集</span>
+                                                                    </div>
+                                                            </div>
+                            <div class="detail">
+                                <p class="title g-clear">
+                                    <span class="s1">新白娘子传奇</span>
+                                </p>
+                                <p class="star">主演：于朦胧 鞠婧祎 肖燕 裴子添 聂子皓</p>                            </div>
+                        </a>
+                    </li>
+                                    <li class="item">
+                        <a class="js-tongjic" href="/tv/PbJobn7lRWXqMX.html">
+                            <div class="cover g-playicon">
+                                <img src="http://p8.qhimg.com/d/dy_3cb6775097e573fcca0dbf0e671bb98f.">
+                                                                                                <div class="mask-wrap">
+                                    <span class="hint">更新至12集</span>
+                                                                    </div>
+                                                            </div>
+                            <div class="detail">
+                                <p class="title g-clear">
+                                    <span class="s1">致我们暖暖的小时光</span>
+                                </p>
+                                <p class="star">主演：邢菲 林一 唐晓天 郑英辰 周峻纬</p>                            </div>
+                        </a>
+                    </li>
+                                    <li class="item">
+                        <a class="js-tongjic" href="/tv/PbJoaX7lRWXoM3.html">
+                            <div class="cover g-playicon">
+                                <img src="http://p5.qhimg.com/d/dy_70669e8e3634799b8609ba66e406b80e.">
+                                                                                                <div class="mask-wrap">
+                                    <span class="hint">更新至36集</span>
+                                                                    </div>
+                                                            </div>
+                            <div class="detail">
+                                <p class="title g-clear">
+                                    <span class="s1">燕阳春</span>
+                                </p>
+                                <p class="star">主演：徐百卉 刘牧 高峰 李思博 金宁</p>                            </div>
+                        </a>
+                    </li>
+                                    <li class="item">
+                        <a class="js-tongjic" href="/tv/PrRwcX7lRWLqNn.html">
+                            <div class="cover g-playicon">
+                                <img src="http://p5.qhimg.com/d/dy_04ba3c374e5a6fb17f96b02193dbb847.">
+                                                                                                <div class="mask-wrap">
+                                    <span class="hint">46集全</span>
+                                                                    </div>
+                                                            </div>
+                            <div class="detail">
+                                <p class="title g-clear">
+                                    <span class="s1">都挺好</span>
+                                </p>
+                                <p class="star">主演：倪大红 姚晨 郭京飞 杨祐宁 李念</p>                            </div>
+                        </a>
+                    </li>
+                                    <li class="item">
+                        <a class="js-tongjic" href="/tv/Q4Foan7lRWXtNn.html">
+                            <div class="cover g-playicon">
+                                <img src="http://p5.qhimg.com/d/dy_9a6875f3d694afb48712c294382be79f.jpg">
+                                                                                                <div class="mask-wrap">
+                                    <span class="hint">更新至14集</span>
+                                                                    </div>
+                                                            </div>
+                            <div class="detail">
+                                <p class="title g-clear">
+                                    <span class="s1">因法之名</span>
+                                </p>
+                                <p class="star">主演：李幼斌 李小冉 张丰毅 石天琦 马晓伟</p>                            </div>
+                        </a>
+                    </li>
+                                    <li class="item">
+                        <a class="js-tongjic" href="/tv/PrFqaH7lRWXtMX.html">
+                            <div class="cover g-playicon">
+                                <img src="http://p3.qhimg.com/d/dy_4b17bf1cf097e1b2fe7aedc385e88be9.">
+                                                                                                <div class="mask-wrap">
+                                    <span class="hint">更新至16集</span>
+                                                                    </div>
+                                                            </div>
+                            <div class="detail">
+                                <p class="title g-clear">
+                                    <span class="s1">趁我们还年轻</span>
+                                </p>
+                                <p class="star">主演：张云龙 乔欣 刘芮麟 黄梦莹 代斯</p>                            </div>
+                        </a>
+                    </li>
+                                    <li class="item">
+                        <a class="js-tongjic" href="/tv/QrVsbX7lRWXlMn.html">
+                            <div class="cover g-playicon">
+                                <img src="http://p4.qhimg.com/d/dy_0140f41f0717ee6ecdf0d1e79609e603.jpg">
+                                                                                                <div class="mask-wrap">
+                                    <span class="hint">更新至36集</span>
+                                                                    </div>
+                                                            </div>
+                            <div class="detail">
+                                <p class="title g-clear">
+                                    <span class="s1">夜空中最闪亮的星</span>
+                                </p>
+                                <p class="star">主演：黄子韬 吴倩 牛骏峰 曹曦月 黄征</p>                            </div>
+                        </a>
+                    </li>
+                                    <li class="item">
+                        <a class="js-tongjic" href="/tv/PbNrbH7lRWLtMX.html">
+                            <div class="cover g-playicon">
+                                <img src="http://p8.qhimg.com/d/dy_9df26fc11d3a7a83ea65f6469c73217d.jpg">
+                                                                                                <div class="mask-wrap">
+                                    <span class="hint">53集全</span>
+                                                                    </div>
+                                                            </div>
+                            <div class="detail">
+                                <p class="title g-clear">
+                                    <span class="s1">只为遇见你</span>
+                                </p>
+                                <p class="star">主演：张铭恩 文咏珊 魏千翔 汤梦佳 季肖冰</p>                            </div>
+                        </a>
+                    </li>
+                                    <li class="item">
+                        <a class="js-tongjic" href="/tv/RLRtaX7lRWXnOH.html">
+                            <div class="cover g-playicon">
+                                <img src="http://p2.qhimg.com/d/dy_462ec5cfb2b2752e4bb6b3e6a9a926ad.">
+                                                                                                <div class="mask-wrap">
+                                    <span class="hint">30集全</span>
+                                                                    </div>
+                                                            </div>
+                            <div class="detail">
+                                <p class="title g-clear">
+                                    <span class="s1">黄河英雄</span>
+                                </p>
+                                <p class="star">主演：张粟 徐囡楠 汪彪 李明 孙荣</p>                            </div>
+                        </a>
+                    </li>
+                                    <li class="item">
+                        <a class="js-tongjic" href="/tv/PbVrb07lRWXmM3.html">
+                            <div class="cover g-playicon">
+                                <img src="http://p3.qhimg.com/t01e780e74d6ab80e4b.jpg">
+                                                                                                <div class="mask-wrap">
+                                    <span class="hint">更新至49集</span>
+                                                                    </div>
+                                                            </div>
+                            <div class="detail">
+                                <p class="title g-clear">
+                                    <span class="s1">风再起时</span>
+                                </p>
+                                <p class="star">主演：陆毅 袁泉 朱雨辰 王维维 徐洪浩</p>                            </div>
+                        </a>
+                    </li>
+                                    <li class="item">
+                        <a class="js-tongjic" href="/tv/PbVpaX7lRWXoNH.html">
+                            <div class="cover g-playicon">
+                                <img src="http://p5.qhimg.com/d/dy_e7813a6d8e257742f836d1ecfcb0fee9.jpg">
+                                                                                                <div class="mask-wrap">
+                                    <span class="hint">更新至36集</span>
+                                                                    </div>
+                                                            </div>
+                            <div class="detail">
+                                <p class="title g-clear">
+                                    <span class="s1">猴票</span>
+                                </p>
+                                <p class="star">主演：王千源 边潇潇 刘奕君 赵文琪 周小镔</p>                            </div>
+                        </a>
+                    </li>
+                                    <li class="item">
+                        <a class="js-tongjic" href="/tv/R4loc07lRWTuOX.html">
+                            <div class="cover g-playicon">
+                                <img src="http://p1.qhimg.com/d/dy_ed9cd89d62dedb9f39291844e3bc67eb.">
+                                                                                                <div class="mask-wrap">
+                                    <span class="hint">38集全</span>
+                                                                    </div>
+                                                            </div>
+                            <div class="detail">
+                                <p class="title g-clear">
+                                    <span class="s1">青春斗</span>
+                                </p>
+                                <p class="star">主演：郑爽 盖玥希 徐悦 陈小纭 王秀竹</p>                            </div>
+                        </a>
+                    </li>
+                                    <li class="item">
+                        <a class="js-tongjic" href="/tv/PrJpaH7lRWXuMH.html">
+                            <div class="cover g-playicon">
+                                <img src="http://p0.qhimg.com/d/dy_26a1ab4c6c7cce3d568783ee9a3e1891.jpg">
+                                                                                                <div class="mask-wrap">
+                                    <span class="hint">更新至14集</span>
+                                                                    </div>
+                                                            </div>
+                            <div class="detail">
+                                <p class="title g-clear">
+                                    <span class="s1">你好，对方辩友</span>
+                                </p>
+                                <p class="star">主演：潘宥诚 林昕宜 杰士鸣 焦娜 吴岳卿</p>                            </div>
+                        </a>
+                    </li>
+                                    <li class="item">
+                        <a class="js-tongjic" href="/tv/PLFqb07lRWPlOX.html">
+                            <div class="cover g-playicon">
+                                <img src="http://p4.qhimg.com/d/dy_e0907a292cd038c0064014f1165ca668.">
+                                                                                                <div class="mask-wrap">
+                                    <span class="hint">36集全</span>
+                                                                    </div>
+                                                            </div>
+                            <div class="detail">
+                                <p class="title g-clear">
+                                    <span class="s1">大宋北斗司</span>
+                                </p>
+                                <p class="star">主演：徐可 代露娃 张雨剑 黄灿灿 张净桐</p>                            </div>
+                        </a>
+                    </li>
+                                    <li class="item">
+                        <a class="js-tongjic" href="/tv/RbpqbH7lRWXpM3.html">
+                            <div class="cover g-playicon">
+                                <img src="http://p2.qhimg.com/d/dy_fb1b5b16fd86f3af42dac1191d2084a2.jpg">
+                                                                                                <div class="mask-wrap">
+                                    <span class="hint">更新至18集</span>
+                                                                    </div>
+                                                            </div>
+                            <div class="detail">
+                                <p class="title g-clear">
+                                    <span class="s1">晨阳</span>
+                                </p>
+                                <p class="star">主演：杨仕泽 蔡知辰 冯建宇 任宥纶 吕星辰</p>                            </div>
+                        </a>
+                    </li>
+                                    <li class="item">
+                        <a class="js-tongjic" href="/tv/QbJtbX7lRWLuMn.html">
+                            <div class="cover g-playicon">
+                                <img src="http://p4.qhimg.com/d/dy_f6886921b9c3b4389fa5b9a2acff7f2a.jpg">
+                                                                                                <div class="mask-wrap">
+                                    <span class="hint">36集全</span>
+                                                                    </div>
+                                                            </div>
+                            <div class="detail">
+                                <p class="title g-clear">
+                                    <span class="s1">爱上北斗星男友</span>
+                                </p>
+                                <p class="star">主演：徐璐 张铭恩 任言恺 吴昕 李俊辰</p>                            </div>
+                        </a>
+                    </li>
+                                    <li class="item">
+                        <a class="js-tongjic" href="/tv/PbRpbH7lRWPmOH.html">
+                            <div class="cover g-playicon">
+                                <img src="http://p0.qhimg.com/d/dy_4e8510552b11866e3d7857cdee6eb82a.jpg">
+                                                                                                <div class="mask-wrap">
+                                    <span class="hint">38集全</span>
+                                                                    </div>
+                                                            </div>
+                            <div class="detail">
+                                <p class="title g-clear">
+                                    <span class="s1">冷枪手</span>
+                                </p>
+                                <p class="star">主演：张晓晨 单薇 魏宗万 梁镜珂 袁菲</p>                            </div>
+                        </a>
+                    </li>
+                                    <li class="item">
+                        <a class="js-tongjic" href="/tv/QLFrb07lRWblMX.html">
+                            <div class="cover g-playicon">
+                                <img src="http://p6.qhimg.com/d/dy_8257a56f686dc54f3f7b859bf04294eb.">
+                                                                                                <div class="mask-wrap">
+                                    <span class="hint">更新至8集</span>
+                                                                    </div>
+                                                            </div>
+                            <div class="detail">
+                                <p class="title g-clear">
+                                    <span class="s1">爱上你，治愈我</span>
+                                </p>
+                                <p class="star">主演：窦骁 苗苗 彭冠英 王思思 金士杰</p>                            </div>
+                        </a>
+                    </li>
+                                    <li class="item">
+                        <a class="js-tongjic" href="/tv/R4NwaX7lRWXuMX.html">
+                            <div class="cover g-playicon">
+                                <img src="http://p7.qhimg.com/d/dy_de54b6a003970680d51a4b61a85ff95c.">
+                                                                                                <div class="mask-wrap">
+                                    <span class="hint">更新至13集</span>
+                                                                    </div>
+                                                            </div>
+                            <div class="detail">
+                                <p class="title g-clear">
+                                    <span class="s1">女人当官2</span>
+                                </p>
+                                <p class="star">主演：闫学晶 姜文艺 李大强 于艺璇 张大静</p>                            </div>
+                        </a>
+                    </li>
+                                    <li class="item">
+                        <a class="js-tongjic" href="/tv/Q4NoaX7lRWLoN3.html">
+                            <div class="cover g-playicon">
+                                <img src="http://p8.qhimg.com/d/dy_c8d311d63662fa262ddad35c087c09c5.jpg">
+                                                                                                <div class="mask-wrap">
+                                    <span class="hint">55集全</span>
+                                                                    </div>
+                                                            </div>
+                            <div class="detail">
+                                <p class="title g-clear">
+                                    <span class="s1">芝麻胡同</span>
+                                </p>
+                                <p class="star">主演：何冰 王鸥 刘蓓 冯文娟 侯煜</p>                            </div>
+                        </a>
+                    </li>
+                                    <li class="item">
+                        <a class="js-tongjic" href="/tv/QLNrb07lRWHsNH.html">
+                            <div class="cover g-playicon">
+                                <img src="http://p7.qhimg.com/t01c5bd046458f07829.jpg">
+                                                                                                <div class="mask-wrap">
+                                    <span class="hint">56集全</span>
+                                                                    </div>
+                                                            </div>
+                            <div class="detail">
+                                <p class="title g-clear">
+                                    <span class="s1">招摇</span>
+                                </p>
+                                <p class="star">主演：白鹿 许凯 代旭 肖燕 刘宇桥</p>                            </div>
+                        </a>
+                    </li>
+                                    <li class="item">
+                        <a class="js-tongjic" href="/tv/PLZucH7lRWLrMn.html">
+                            <div class="cover g-playicon">
+                                <img src="http://p1.qhimg.com/d/dy_79b22fea6c65f01844dc35e72efefd4e.">
+                                                                                                <div class="mask-wrap">
+                                    <span class="hint">30集全</span>
+                                                                    </div>
+                                                            </div>
+                            <div class="detail">
+                                <p class="title g-clear">
+                                    <span class="s1">冷案</span>
+                                </p>
+                                <p class="star">主演：李媛 施诗 王雨 蒲萄 陈牧扬</p>                            </div>
+                        </a>
+                    </li>
+                                    <li class="item">
+                        <a class="js-tongjic" href="/tv/QLZpb07lRWLpNH.html">
+                            <div class="cover g-playicon">
+                                <img src="http://p9.qhimg.com/d/dy_6195771fe690fccef2c15e3719f2b10e.jpg">
+                                                                                                <div class="mask-wrap">
+                                    <span class="hint">56集全</span>
+                                                                    </div>
+                                                            </div>
+                            <div class="detail">
+                                <p class="title g-clear">
+                                    <span class="s1">黄金瞳</span>
+                                </p>
+                                <p class="star">主演：张艺兴 王紫璇CiCi 李立群 王栎鑫 陈泇文</p>                            </div>
+                        </a>
+                    </li>
+                            </ul>
+                </div>
+
+
+    </div>
+</div>    <div monitor-desc='分页' id='js-ew-page' data-block='js-ew-page'  class='ew-page'> <a target='_self' class='on'>1</a><a href='http://www.360kan.com/dianshi/list.php?rank=rankhot&cat=all&area=all&act=all&year=all&pageno=2' target='_self'>2</a><a href='http://www.360kan.com/dianshi/list.php?rank=rankhot&cat=all&area=all&act=all&year=all&pageno=3' target='_self'>3</a><a href='http://www.360kan.com/dianshi/list.php?rank=rankhot&cat=all&area=all&act=all&year=all&pageno=4' target='_self'>4</a><a href='http://www.360kan.com/dianshi/list.php?rank=rankhot&cat=all&area=all&act=all&year=all&pageno=5' target='_self'>5</a><a href='http://www.360kan.com/dianshi/list.php?rank=rankhot&cat=all&area=all&act=all&year=all&pageno=6' target='_self'>6</a><span>...</span><a href='http://www.360kan.com/dianshi/list.php?rank=rankhot&cat=all&area=all&act=all&year=all&pageno=25' target='_self'>25</a><a href='http://www.360kan.com/dianshi/list.php?rank=rankhot&cat=all&area=all&act=all&year=all&pageno=2' target='_self' class='btn'>下一页&gt;</a></div>
+</div>
+<div class="s-common-body">
+    <div class="s-body-wrap g-clear">
+        <div class="s-body-left">
+            
+<div class="m-title">精彩推荐</div>
+<div class="m-videostream js-m-videostream" data-adid="W2Ey1A" data-count="10" data-block="tj-jctuijian" monitor-desc="精彩推荐">
+    <ul class="js-videostream-list"></ul>
+    <div class="m-videostream-loadmore js-m-videostream-loadmore">
+        <a href="####" target="_self" monitor-desc="加载更多">
+            <span>加载更多</span>
+            <span class="m-videostream-add"></span>
+        </a>
+    </div>
+    <div class="m-videostream-morevideos js-m-videostream-morevideos">
+        <a href="https://v.360kan.com/list/index" monitor-desc="更多精彩">
+            <span>更多精彩</span>
+        </a>
+    </div>
+    <div class="m-videostream-loading js-m-videostream-loading"></div>
+    <script type='template' class='js-tpl'>
+        <li class="js-m-videostream-li">
+            <a href="{furl}" {if reason}data-click={entId}_{reason}{/if}  data-posindex="{pos_index}" class="g-clear">
+                <div class="imgWrap g-playicon js-playicon">
+                    <div class="img-default"></div>
+                    <img data-src="{cover}" src="https://p0.ssl.qhimg.com/d/_hao360/default.png" />
+                    <div class="uploadTime">{duration}&nbsp;</div>
+                </div>
+                <div class="descWrap">
+                    <p class="t1" title="{title}">{title}</p>
+                    <p class="t2 g-clear">
+                        <span class="wemedia">
+                            <img data-src="{wemedia.head_img}" src="https://p0.ssl.qhimg.com/d/_hao360/default.png" alt="" class="wemedia_img"/>
+                            <span class="wemedia_name">{wemedia.name}</span>
+                        </span>
+                        <!--<span class="uploadTime">{pubDate}上传</span>-->
+                        <span class="uploadTime">时长：{duration}</span>
+                        <span class="playCount">{playNum}人观看</span>
+                    </p>
+                </div>
+            </a>
+        </li>
+</script>
+    <script class='js-adtype1Tpl' type='template'>
+        <li data-clicklog={clicklog} class="">
+            <a class=" g-clear" data-ad="true" href="{url}" data-url="{url}" data-title="{title}" data-type="{type}" target="_blank">
+            <div class="imgWrap g-playicon js-playicon"><img data-src="{cover}" src="https://p0.ssl.qhimg.com/d/_hao360/default.png" data-pvlog={pvlog}></div>
+            <div class="descWrap">
+                <p class="t1" >{title}</p>
+                <p class="t2">
+                    <span class="first-desc">{src}</span>
+                    <span class="adlogo">广告</span>
+                </p>
+            </div>
+            </a>
+        </li>
+    </script>
+    <script class='js-adtype2Tpl' type='template'>
+        <li data-clicklog={clicklog} class="m-videostream-assets-ad-li">
+            <a href="{url}" class="m-assets-ad-title">{title}</a>
+            <ul class="m-assets-ad-wrap g-clear {if square}m-assets-adspuare-wrap{/if}">
+                {each assets}<li class="m-assets-ad-item" data-clicklog="{item.clicklog}">
+                    <a href="{item.curl}" class="m-assets-ad-imgwrap ">
+                        <img data-src="{item.img}" src="https://p0.ssl.qhimg.com/d/_hao360/default.png" {if index==0} data-pvlog="{item.pvlog}"{/if} alt="">
+                        {if item.desc}<span class="m-assets-item-title">{item.desc}</span>{/if}
+                    </a>
+                    {if index==3}<span class="m-assets-ad-tip">广告</span>{/if}
+                </li>{/each}
+            </ul>
+        </li>
+    </script>
+    <script class='js-adtype3Tpl' type='template'>
+        <li data-clicklog={clicklog} class="m-videostream-adli adbig">
+            <a class=" g-clear" data-ad="true" href="{url}" data-url="{url}" data-title="{title}" data-type="{type}" target="_blank">
+                <p class="m-adbig-title">{title}</p>
+                <span class="m-ad-tip">广告</span>
+                <img data-src="{cover}" src="https://p0.ssl.qhimg.com/d/_hao360/default.png" data-pvlog={pvlog} />
+            </a>
+        </li>
+    </script>
+    <script class='js-adtype4Tpl' type='template'>
+        <li data-clicklog={clicklog} class="m-todayhot-li">
+            <a class=" g-clear" data-ad="true" href="{url}" data-url="{url}" data-title="{title}" data-type="{type}" target="_blank">
+            <div class="imgWrap g-playicon js-playicon"><video data-src="{video}" poster="{cover}" data-pvlog={pvlog} loop="loop" muted/></div>
+            <div class="descWrap">
+                <p class="t1" >{title}</p>
+                <p class="t2">
+                    <span class="first-desc">{src}</span>
+                    <span class="adlogo">广告</span>
+                </p>
+            </div>
+            </a>
+        </li>
+    </script>
+    <!--百度广告-->
+    <div style="display:none;" class="js-eb-baiduadstream">
+    <script type="text/javascript">(function() {var s = "_" + Math.random().toString(36).slice(2);document.write('<div style="" id="' + s + '"></div>');(window.slotbydup = window.slotbydup || []).push({id: "u3561308",container:  s});})();</script>
+</div>    
+</div>
+
+        </div>
+        <div class="s-body-right">
+            
+    
+    
+<div class='s-guess js-guess' id='js-guessb' data-ids='' style="display:none;" data-channel="dianshi">
+    <div class="m-title">猜你喜欢</div>
+    <ul class="s-guess-nav js-guess-nav g-clear">
+        <li data-navname="dianshi" class="active">电视剧</li>
+        <li data-navname="dianying" >电影</li>
+        <li data-navname="zongyi" >综艺</li>
+        <li data-navname="dongman" >动漫</li>
+    </ul>
+    <div data-block='tj-guess' monitor-desc="猜你喜欢">
+        <ul class='s-guess-list g-clear js-list js-list-dianshi'></ul>
+        <ul class='s-guess-list g-clear js-list js-list-dianying' style="display: none;"></ul>
+        <ul class='s-guess-list g-clear js-list js-list-zongyi' style="display: none;"></ul>
+        <ul class='s-guess-list g-clear js-list js-list-dongman' style="display: none;"></ul>
+    </div>
+
+    <script type="template" class="js-tpl">
+        <a class='' href='{url}' target='_blank'  data-pos="{pos}" data-srcid="{src_id}" data-id="{id}" data-cat="{category}">
+            <div class='s-guess-left g-playicon js-playicon'>
+                <div class="img-default"></div>
+                <img src="https://p0.ssl.qhimg.com/d/_hao360/default.png" data-src='{cover}'>
+            </div>
+            <div class='s-guess-right'>
+                <p class='title' title="{title}"><span>{title}</span></p>
+            </div>
+        </a>
+    </script>
+</div>
+
+    <div class='s-ad js-s-ad'  data-block='tj-jptuijian' monitor-desc="精品推荐" monitor-shortpv data-float=1  data-adid='6UIpLu'>
+    <h3 class="s-title g-clear">
+    <span>精品推荐</span>
+</h3>    <div class="s-ad-content">
+        <script src="//static.mediav.com/js/mvf_shop_window.js"></script>
+        <script>
+            SHOP_WINDOW({
+                size: 'custom_280',
+                showid : '6UIpLu'
+            });
+        </script>
+    </div>
+</div>    
+
+        </div>
+    </div>
+</div>
+	
+<div class="eb-foot " data-block="tj-foot" monitor-desc="foot" monitor-shortpv>
+	<div class="eb-foot-wrap g-clear">
+		<div class="eb-foot-left">
+			<p><img src="https://p0.ssl.qhimg.com/t01cce0452825687104.png"></p>
+			<p>Copyright © 360安全网址. All Rights Reserved.</p>
+			<p><a href="http://www.miibeian.gov.cn">浙ICP证B2-20090064号</a>&nbsp;&nbsp; <span>信息网络传播视听节目许可证1109357号</span>&nbsp;&nbsp; <span>浙网文[2016]0179-079号</span></p>
+            <p><a class='ga' href='http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=33030202000714'>浙公网安备 33030202000714号</a></p>
+        </div>
+		<div class="eb-foot-right g-clear">
+			<dl>
+				<dt>关于</dt>
+				<dd><a href="http://www.360kan.com/more/aboutus" target="_blank">关于我们</a></dd>
+				<dd><a href="http://www.360kan.com/more/copyright" target="_blank">版权声明</a></dd>
+				<dd><a href="http://www.360kan.com/more/protocol" target="_blank">用户协议</a></dd>
+				
+				
+			</dl>
+			<dl>
+				<dt>服务</dt>
+				<dd><a class='js-addfavorite'  href='###'>加入收藏</a></dd>
+				<dd><a href="http://www.360kan.com/more/feedback" target="_blank">意见反馈</a></dd>
+				
+				<dd><a href="http://weibo.com/360yingshi" target="_blank">官方微博</a></dd>
+				<dd><a href="http://www.360kan.com/more/cooperation">联系方式</a></dd>
+			</dl>
+			<dl>
+				<dt>扫码下载APP</dt>
+				<dd><img src="https://p0.ssl.qhimg.com/t0138a5be69a4b76db3.png"></dd>
+			</dl>
+		</div>
+	</div>		
+</div>
+<div id='js-eb-bottomad' class="eb-panel" monitor-desc="底部富媒体广告" data-block="tj-richmedia">
+     <div style="display:none;" class="js-eb-bottompmpad eb-bottompmpad" >
+          <a target="_blank" class='eb-panel-link js-link'>
+            <img style='display:none' class='js-img' src="https://p0.ssl.qhimg.com/d/_hao360/default.png" />
+          </a>
+          <span class="eb-panel-close js-close"></span><p class='eb-panel-timeout'>剩余<span class='js-timeout'>6</span>秒</p>
+          <span class="ad-tag js-ad-tag"></span>
+     </div>
+</div><div id='js-eb-rightbottomad' class="eb-rightbottomad">
+    <div class="eb-content js-rightbottomad-bg">
+        <div class="eb-top eb-top-bg js-top">
+            <p class="eb-title js-title">爆款推荐</p>
+            <div class="eb-oper">
+                <div class="eb-change js-change">换一换</div>
+                <div class="eb-close js-close"><img src="https://p0.ssl.qhimg.com/t01504db0ed756490d5.png" alt="" /></div>
+            </div>
+        </div>
+        <a target="_blank" class='eb-panel-link js-link'>
+            <img class='js-img' src="https://p0.ssl.qhimg.com/d/_hao360/default.png" />
+            <i class="eb-adicon"></i>
+        </a>
+        <!-- <i class="eb-bottomicon"></i> -->
+    </div>
+</div>
+<div class="eb-smallbottomad js-eb-smallbottomad" monitor-desc="smallBottomAd" data-scid="smallBottomAd" data-block="tj-smallBottomAd" data-mid="">
+    <a href="" class="eb-adcontent js-eb-adcontent" data-url="">
+        <div class="eb-adlogo">
+            <img class="eb-adimg" src="" />
+        </div>
+        <div class="eb-adinfo">
+            <div class="eb-adtitle"></div>
+            <div class="eb-addes"></div>
+        </div>
+    </a>
+    <div class="eb-adicon js-eb-adicon">
+        <span class="eb-timer js-eb-timer">15s</span><div class="eb-adsplit"></div>
+        <div class="eb-adclose js-adclose"><img src="https://p2.ssl.qhimg.com/t01e4d8ec024b6c8c28.png" /></div>
+    </div>
+
+</div>
+
+    
+<div id="js-eb-feedback2" class="g-dialog eb-feedback  js-eb-feedback" data-block="tj-feedback" monitor-desc="feedback" monitor-shortpv>
+    <div class="eb-feedback-inner">
+        <i class="eb-feedback-hd js-close"></i>
+        <div class="eb-feedback-bd">
+            <form id="js-eb-feedbackform" class="js-eb-feedbackform" action="" method="post" target="feedbackframe">
+                <h3 class="tit1">请选择问题类型：</h3>
+                <div class="content">
+                  <ul class="eb-feedback-tag g-clear">
+                        <li class="on" data-text-default="对我们的产品有什么意见和建议，来这里反馈吧~">
+                           
+                                <span>产品问题</span>
+                           
+                        </li>
+                        <li data-text-default="视频播放不了，我要报错~" class="">
+                            
+                                
+                                <span >播放不了</span>
+                                
+                          
+                        </li>
+                        <li data-text-default="片名、导演、演员、图片等信息有错误，我要留言纠错~" class="">
+                          
+                                
+                                <span>信息错误</span>
+                                
+                          
+                        </li>
+                        <li data-text-default="还有其他的任何疑问可以来这里提哦~" class="">
+                            
+                                
+                                <span >其他问题</span>
+                                
+                            
+                        </li>
+                    </ul>
+                    <div class="reply">
+                        <textarea name="message_fake" data-text-default="对我们的产品有什么意见和建议，来这里反馈吧~" class="txt js-message">对我们的产品有什么意见和建议，来这里反馈吧~</textarea>
+                    </div>
+                </div>
+                <h3 class="tit2">联系方式<span>可选</span></h3>
+                <div class="content">
+                    <input id="contact" data-text-default="QQ/邮箱/电话" class="number" type="text" value="QQ/邮箱/电话" autocomplete="off"/>
+                    
+                </div>
+                <div class="btn-wrap">
+                    <div style="display:none;"  class="errortip js-feedback-hit">亲，您忘了添加反馈了吧~</div>
+                    <a href="" class="btn submit js-submit-btn">提　交</a>
+                </div>
+
+<input type="hidden" name="content" value="" id='js-content'>
+<input type="hidden" name="contact" value="" id='js-contact' />
+<input type="hidden" name="project" value="360VideoWeb" id='js-project'>
+<input type="hidden" name="tag" value="feedback" >
+<input type="hidden" name="sys" value=""  id='js-sys' >
+<input type="hidden" name="verify" value="" id='js-verify'>
+            </form>
+
+            <div id="js-eb-feedback-success" class="success js-feedback-success" style="display: none;">
+                <div class="show-result">
+                    <img src="https://p1.ssl.qhimg.com/t010d0d37db3bc2c5b4.png" alt="提交成功"></div>
+                <div class="tip">
+                    继续留言请点
+                    <a class="js-feedback-again" title="">这里</a>
+                </div>
+            </div>
+
+            <div style="display:none;"><iframe id="feedbackframe" name="feedbackframe" frameborder="0"></iframe></div>
+        </div>
+    </div>
+</div>
+    
+<div id="js-eb-sidefeedback2" class="eb-sidefeedback2 " data-block="tj-sidefeedback" monitor-desc="sidefeedback" monitor-shortpv>
+        <div id="sidefeedback_ineractive_ad">
+        <a class="eb-sidefeedback2-interactivead-close js-interactivead-close" href="javascript:;" title="关闭" data-block="tj-sidefeedback-closeinteractivead" monitor-desc="反馈栏关闭互动广告"></a>
+        <div class="eb-interactivead js-eb-interactivead" style="width:100%;height:100%;position:relative;">
+    <div class="eb-interactivead-gameWrap"></div>
+    <div class="eb-interactivead-dialogWrap" style="position:absolute;top:0;left:0;width:100%;height:100%;display: none;"></div>
+</div>
+            </div>
+        <div class="eb-sidefeedback2-item eb-sidefeedback2-item-gotop js-gotop" style='display:none;'></div>
+	<a class="eb-sidefeedback2-item eb-sidefeedback2-item-app" href='http://www.360kan.com/appdownload'>
+        <p><img src='https://p0.ssl.qhimg.com/t01e385e976f57de2e9.png' /><i></i><span>手机扫描下载影视大全APP</span></p>
+    </a>
+    <a class="eb-sidefeedback2-item eb-sidefeedback2-item-feedback js-feedback" monitor-desc="意见反馈"></a>
+    <div class="eb-sidefeedback2-item eb-sidefeedback2-item-ad js-ad" style='visibility:hidden'><a target="_blank" href='/'><img src='https://p0.ssl.qhimg.com/d/_hao360/default.png' /></a><p class='repeat js-repeat'>重播</p></div>
+</div>    
+    
+    
+  <script>
+        var serverdata = {
+            tongji: 'http://www.360kan.com/dianshi/list.php',
+            tjtype : 'dslist',
+            curpage : '1',
+            pageparam : {"rank":"rankhot","cat":"all","area":"all","act":"all","year":"all"},
+            use_monitor_v2: true
+        };
+  </script>
+
+
+
+<script src='http://s2.qhimg.com/static/74c37d815a0f2e9a,1227bc46dba9ed04,f422446daac39150,2bae9bbd81d0152d,ec3d998f3f644ccb,100b6848e5ee14f0,859be699fb031ca8,53c4a179db8d0bc3,f023ede548b96445,2a9dd47c3806f9da,2face359b0a8325c,a8e3fcbdee9b3634,d8cfa61cc5a0fd94,c6197a0a9e04347a,558fa10328a9741e,d1575b727dfa4262,193f6aaa039472ca,95d7945c0ac7838e,7f25b76331afd38a,c4fa1786f193b246,90876c330baab4c5,7553aebb28bca14a,fadff19a80612473,cbcd1a4f67339785,139f0236b8304a47,da669218a28a11aa,974786459f952a72,b0051d6002d95800,1b5861086a162b32,a550db4cb92fff8c,18a8bd044364dbad,1e6a7e438253554f,93c8d73506f054be,d5357f55384ae7b5,0947fdbe29a4450c,76ede7bb05f5727a,fc3c5a046e909f7b,cf5713f8e486dc51,2d52eb5f8e01966a.js' type='text/javascript'></script>
+
+
+<script type='text/javascript' src='https://s5.ssl.qhres.com/static/97c193e670740aa4.js'></script><script type='text/javascript'>define("other.jquery",function(){return window.$;});</script>
+
+<script type='text/javascript' src='https://s4.ssl.qhres.com/ssl/6b430db3ee92470f.js'></script><script type='text/javascript'>define("other.easing", ["other.jquery"], function($){ });</script>
+
+<script src='http://s8.qhimg.com/static/b6c7963030d89b0f,339ea98dc0dd8217,1dda4d5ac23e0493,721b2caa3e5a13b7,de41101165911e18,994f548f6eec7f08,4f4d3a1e344733d2,e33866619fc969db,03baf856ad0f3317,a8c821372f484229,de9d5c15b14b25d4,6dacdfa09e522781,24c7faadd9c7a53e,154b05eafbefcc4b,360abc6c365473fe,9dc6fae33942fdbd,f3378b663a1ed367,38dd05b54de1c036,02166543e4061130,dec4c44327ec8c47,ba4cf27ee160cca6,7618c8f98e3d5f47,651af74cc3407744,e0960183f7c11b50,f61976417988e605,1d1b8a8a4338b771,f0670d932ccabe0f,f86ba655bf3ae382,6f6e528bc3eaaa3d,48d65f4ab70d3afb,7eb91ee240e41a45,44ae4f40cddfb97c.js' type='text/javascript'></script>
+
+
+<script type='text/javascript' src='//cpro.baidustatic.com/cpro/ui/c.js'></script>
+
+<script type='text/javascript' src='//cjhd.mediav.com/js/interactive_plugin.js'></script><script type='text/javascript'>define("other.interactivead", function(){ })</script></body></html>
