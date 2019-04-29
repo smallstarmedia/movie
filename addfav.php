@@ -15,6 +15,7 @@ if($row = mysqli_fetch_array($result)){
 echo '<script>alert("收藏成功！");window.history.go(-1);</script>';
 	}
 	}
+
 	else{
 alert_href('请登陆后进入','login.php');
 	}
