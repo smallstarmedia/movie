@@ -12,6 +12,7 @@ Scan this dir for additional .ini files => /usr/local/etc/php/7.3/conf.d
 Additional .ini files parsed => /usr/local/etc/php/7.3/conf.d/ext-opcache.ini
 
 
+
 PHP API => 20180731
 PHP Extension => 20180731
 Zend Extension => 320180731
